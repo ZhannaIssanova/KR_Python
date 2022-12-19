@@ -1,6 +1,6 @@
 # KR_Python
 Курсовая работа Разработка кроссплатформенных приложений
 
-![Screenshot](Скриншот.png)
+![Screenshot](img.png)
 
-![Screenshot](Скриншот.png)
+![Screenshot](img2.png)
